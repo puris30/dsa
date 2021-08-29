@@ -1,7 +1,7 @@
 package com.sorting;
 
 public class MergeSort {
-//	////
+//	//////
 	public void sort(int []arr,int l,int r)
 	{//this condition is to stop dividing by 2 when only when element is left otherwise stack overflow
 		if(l<r)
